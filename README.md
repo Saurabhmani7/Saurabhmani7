@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Saurabhmani7
-- 👀 I’m interested in Data analysis
-- 🌱 I’m currently learning Machine learning, R , Python, SQL, 
-- 💞️ I’m looking to collaborate on ...
+- 👀 Python Developer
 - 📫 linkedin profile https://www.linkedin.com/in/saurabh-mani-18a790325?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 <!---
